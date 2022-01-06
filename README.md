@@ -4,3 +4,4 @@ This site is the template for the workshop [Committing to Documentation](https:/
 
 
 # Docs are awesome
+# Hello Docs!
